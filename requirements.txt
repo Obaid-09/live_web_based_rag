@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-classic 
+langchain-huggingface
+langchain-groq
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
+torch
+torchvision 
+torchaudio
